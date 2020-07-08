@@ -17,7 +17,7 @@ embedded_components {
   id: "ship"
   type: "sprite"
   data: "tile_set: \"/ship/ship.atlas\"\n"
-  "default_animation: \"idle\"\n"
+  "default_animation: \"flight\"\n"
   "material: \"/builtins/materials/sprite.material\"\n"
   "blend_mode: BLEND_MODE_ALPHA\n"
   ""

@@ -1,5 +1,5 @@
 animations {
-  id: "idle"
+  id: "flight"
   images {
     image: "/ship/images/playerShip1_blue.png"
     sprite_trim_mode: SPRITE_TRIM_MODE_OFF
